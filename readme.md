@@ -1,3 +1,10 @@
+
+Depreciated
+--------
+
+See this for an updated version: https://github.com/charlesdh/addfwrs
+
+
 addfwrs_auto
 =========
 
