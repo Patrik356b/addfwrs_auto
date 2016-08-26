@@ -2,7 +2,8 @@
 Depreciated
 --------
 
-See this for an updated version: https://github.com/charlesdh/addfwrs
+See this for an updated version: https://github.com/charlesdh/fwblock.bat
+Alternatively:  https://github.com/charlesdh/addfwrs 
 
 
 addfwrs_auto
